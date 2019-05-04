@@ -1,2 +1,2 @@
 # disbotcord.cf
-The website for Disbotcord!
+[Click me to go to the site!](https://disbotcord.cf)
