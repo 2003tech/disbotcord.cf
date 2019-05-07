@@ -2,3 +2,21 @@ body {
     background: #2C2F33;
     color: white;
 }
+
+.custom-footer {
+    background: #23272A;
+    color: white;
+    padding-left: 5%;
+}
+
+.owners strong i{
+    color: white;
+}
+
+.owners {
+    /*border-bottom: 1px solid #ccd6f8;*/
+    /*border-top: 1px solid #ccd6f8;*/
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
