@@ -9,6 +9,10 @@ body {
     padding-left: 5%;
 }
 
+strong {
+    color: white;
+}
+
 .owners strong i{
     color: white;
 }
@@ -19,4 +23,11 @@ body {
     text-align: center;
     padding: 10px;
     margin-top: 10px;
+}
+
+#command-box {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 100px; 
+    margin-right: 100px;
 }
